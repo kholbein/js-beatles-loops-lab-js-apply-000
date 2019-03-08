@@ -17,8 +17,8 @@ for (;text[i];) {
   text[i] + "!!!";
   i++;
   
-while (cars[i]) {
-  text += cars[i] + "<br>";
+while (text[i]) {
+  text += text[i] + "<br>";
   i++;
 }
 
@@ -30,7 +30,7 @@ function iLoveTheBeatles (){
 var output= []
 var i = 0
  
-do {i += i + "!!!";
+do {i += output[i] + "!!!";
   i++;
 }
 while (i < 10);
