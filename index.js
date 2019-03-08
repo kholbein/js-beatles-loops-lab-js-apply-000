@@ -11,5 +11,5 @@ function theBeatlesPlay(musicians, instruments) {
 
 function johnLennonFacts()
 
-var i=[]
-while (i < 4)
+var i=[] 
+while (i < 4){ return i +!!!
