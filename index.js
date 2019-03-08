@@ -25,4 +25,13 @@ while (cars[i]) {
 
 }
 
-function 
+function iLovetheBeatles (){
+ 
+var i=
+ 
+do {i += i + "!!!";
+  i++;
+}
+while (i < 10);
+}
+}
