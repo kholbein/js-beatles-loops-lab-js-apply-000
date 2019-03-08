@@ -16,6 +16,11 @@ function johnLennonFacts(){
 for (;text[i];) {
   text[i] + "!!!";
   i++;
+  
+while (cars[i]) {
+  text += cars[i] + "<br>";
+  i++;
 }
+
 
 }
