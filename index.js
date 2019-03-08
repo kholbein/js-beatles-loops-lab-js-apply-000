@@ -27,7 +27,7 @@ while (cars[i]) {
 
 function iLovetheBeatles (){
 
-var output= 
+var output= []
 var i = 0
  
 do {i += i + "!!!";
@@ -35,4 +35,6 @@ do {i += i + "!!!";
 }
 while (i < 10);
 }
+return output
+
 }
