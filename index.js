@@ -25,7 +25,7 @@ while (cars[i]) {
 
 }
 
-function iLovetheBeatles (){
+function iLoveTheBeatles (){
 
 var output= []
 var i = 0
