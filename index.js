@@ -26,8 +26,9 @@ while (cars[i]) {
 }
 
 function iLovetheBeatles (){
- 
-var i=
+
+var output= 
+var i = 0
  
 do {i += i + "!!!";
   i++;
