@@ -13,8 +13,8 @@ function johnLennonFacts(){
   var i = 0;
   var text = "";
 
-for (;facts[i];) {
-  facts[i] + "!!!";
+for (;text[i];) {
+  text[i] + "!!!";
   i++;
 }
 
