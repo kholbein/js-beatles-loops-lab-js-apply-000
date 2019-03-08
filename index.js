@@ -24,3 +24,5 @@ while (cars[i]) {
 
 
 }
+
+function 
